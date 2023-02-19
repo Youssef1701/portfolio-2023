@@ -1,4 +1,4 @@
-# Folio 2019
+# Folio 2023
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -18,6 +18,4 @@ npm run dev
 npm run build
 ```
 
-```
-🥚 2021eggpvlzscw
-```
+
